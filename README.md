@@ -1,1 +1,1 @@
-# Shopping-cart
+Built on React with Tailwind CSS, this shopping app offers a sleek, responsive design. Users can easily add or remove items from their cart, with Toast notifications enhancing interactivity. The combination of React and Tailwind CSS ensures a user-friendly interface, while Toast notifications provide real-time feedback for a seamless shopping experience.
